@@ -1,0 +1,22 @@
+{
+    "name": "katie-hw-11-take-two",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stroupjason/express-notes-app-test.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stroupjason/express-notes-app-test/issues"
+    },
+    "homepage": "https://github.com/stroupjason/express-notes-app-test#readme",
+    "dependencies": {
+        "uniqid": "^5.2.0"
+    }
+}
