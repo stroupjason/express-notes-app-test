@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/stroupjason/express-notes-app-test#readme",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "heroku": "^7.42.1",
         "uniqid": "^5.2.0"
     }
